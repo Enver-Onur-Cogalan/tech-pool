@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tech-pool/static/css/main.e89dde05.css",
+    "main.js": "/tech-pool/static/js/main.0a31ad5e.js",
+    "static/js/453.b8f8ad03.chunk.js": "/tech-pool/static/js/453.b8f8ad03.chunk.js",
+    "static/media/nodejs.svg": "/tech-pool/static/media/nodejs.543dd86690e645fec32c4c62669bf07f.svg",
+    "static/media/react.svg": "/tech-pool/static/media/react.e72c9ed5483656b44c338310ad3219ce.svg",
+    "static/media/mongodb.svg": "/tech-pool/static/media/mongodb.ad7076a60816aa615577fa470cfa6d81.svg",
+    "static/media/firebase.svg": "/tech-pool/static/media/firebase.8f69a13150a1594d8fb73df74f12b548.svg",
+    "static/media/typescript.svg": "/tech-pool/static/media/typescript.da47f77824fab48dafd99485194e6bae.svg",
+    "static/media/openai.svg": "/tech-pool/static/media/openai.c3ad48fc076551e0763231466268ca39.svg",
+    "static/media/figma.svg": "/tech-pool/static/media/figma.fb0bbe863531123ad2a2906525324f9e.svg",
+    "index.html": "/tech-pool/index.html",
+    "static/media/javascript.svg": "/tech-pool/static/media/javascript.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
+    "main.e89dde05.css.map": "/tech-pool/static/css/main.e89dde05.css.map",
+    "main.0a31ad5e.js.map": "/tech-pool/static/js/main.0a31ad5e.js.map",
+    "453.b8f8ad03.chunk.js.map": "/tech-pool/static/js/453.b8f8ad03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89dde05.css",
+    "static/js/main.0a31ad5e.js"
+  ]
+}
